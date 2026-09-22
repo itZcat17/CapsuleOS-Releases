@@ -1,0 +1,129 @@
+{
+  "announcements": [
+    {
+      "id": "575d4fca-8ce0-4830-bed5-0e3e84016237",
+      "header": "CAPSULE OS UPDATE",
+      "title": "New Look Update",
+      "version": "0.9.0",
+      "body": "This update will consist of many things such as:\n- Updated ADX from v3 to v4 to match Dokkan Battle\n- Updated Lua Studio with many bug fixes, better playback and a recoded Lua player (bugs can be expected)\n- ADDED A NEW BETA TOGGLE IN SETTINGS: \"New Look\", get  aRefreshed CapsuleOS Look, this will change throughout the version as we integrate CapsuleOS completely and slowly into this brand new look",
+      "kind": "update",
+      "audience": "all",
+      "publishAt": "2026-09-22T19:05:02.950Z",
+      "expiresAt": "",
+      "link": "https://github.com/itZcat17/CapsuleOS-Releases/releases/tag/v0.9.0",
+      "pinned": true,
+      "updatedAt": "2026-09-22T19:05:02.950Z",
+      "media": [
+        {
+          "id": "1790103677517-0",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "02-beta-new-look.png",
+          "size": 890128,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103677517-0-02-beta-new-look.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103677517-0-02-beta-new-look.png"
+        },
+        {
+          "id": "1790103685863-0",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "03-encyclopedia.png",
+          "size": 424859,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-0-03-encyclopedia.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-0-03-encyclopedia.png"
+        },
+        {
+          "id": "1790103685863-1",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "04-categories.png",
+          "size": 837506,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-1-04-categories.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-1-04-categories.png"
+        },
+        {
+          "id": "1790103685863-2",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "05-missions.png",
+          "size": 323328,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-2-05-missions.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-2-05-missions.png"
+        },
+        {
+          "id": "1790103685863-3",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "06-animation-splicer.png",
+          "size": 254377,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-3-06-animation-splicer.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-3-06-animation-splicer.png"
+        },
+        {
+          "id": "1790103685863-4",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "07-adx-v4.png",
+          "size": 221990,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-4-07-adx-v4.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-4-07-adx-v4.png"
+        },
+        {
+          "id": "1790103685863-5",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "08-patch-debugger.png",
+          "size": 284066,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-5-08-patch-debugger.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103685863-5-08-patch-debugger.png"
+        },
+        {
+          "id": "1790103697105-0",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "09-fixes-and-updates.png",
+          "size": 156918,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103697105-0-09-fixes-and-updates.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103697105-0-09-fixes-and-updates.png"
+        },
+        {
+          "id": "1790103697105-1",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "10-awakening-art.png",
+          "size": 806414,
+          "source": "publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103697105-1-10-awakening-art.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/575d4fca-8ce0-4830-bed5-0e3e84016237/1790103697105-1-10-awakening-art.png"
+        }
+      ]
+    },
+    {
+      "audience": "all",
+      "body": "",
+      "expiresAt": "",
+      "header": "WHAT'S NEW",
+      "id": "93162702-f5f7-4860-b122-20e5ce9ad280",
+      "kind": "update",
+      "link": "",
+      "media": [],
+      "pinned": false,
+      "publishAt": "2026-09-21T15:09:42.473Z",
+      "title": "New announcement",
+      "version": ""
+    },
+    {
+      "audience": "all",
+      "body": "0.8.9 Lua Animation Mixer has collided code with another upcoming Feature, it will be extremely buggy and will be fixed in 0.9.0! Lua Splicer still works, but Animation Mixer is breaking down and as well as saying things that do not make any sense!",
+      "expiresAt": "2026-09-20T19:14:00.000Z",
+      "id": "b9e04db4-420b-415e-b583-7484f7510878",
+      "kind": "critical",
+      "link": "",
+      "pinned": true,
+      "publishAt": "2026-09-16T17:00:00.000Z",
+      "title": "Regarding 0.8.9 Lua Mixer",
+      "updatedAt": "2026-09-15T17:30:11.804Z"
+    }
+  ],
+  "schemaVersion": 2,
+  "updatedAt": "2026-09-22T19:05:02.956Z"
+}
