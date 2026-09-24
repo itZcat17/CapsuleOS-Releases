@@ -1,6 +1,31 @@
 {
   "announcements": [
     {
+      "id": "b7750de7-bc76-4cf3-9d83-137105784444",
+      "header": "CAPSULE OS UPDATE",
+      "title": "Fixes & Upgrades",
+      "version": "0.9.1",
+      "body": "This Update introduces a limit upgrade and some fixes to the Converters section! The old 64mb limit for MP3 to BGM has been upped to 150MB per AWB!\n\nThis also introduces some small QoL updates and fixes, such as the Announcements now disappearing after a while rather then sticking to the Homescreen, they will now sit in the Notifications Tab",
+      "kind": "update",
+      "audience": "all",
+      "publishAt": "2026-09-24T14:14:46.681Z",
+      "expiresAt": "",
+      "link": "https://github.com/itZcat17/CapsuleOS-Releases/releases/tag/v0.9.1",
+      "pinned": true,
+      "updatedAt": "2026-09-24T14:14:46.681Z",
+      "media": [
+        {
+          "id": "1790258974744-0",
+          "kind": "image",
+          "mime": "image/png",
+          "name": "bgm-converter-upgrade-capsule.png",
+          "size": 787818,
+          "source": "publisher/media/b7750de7-bc76-4cf3-9d83-137105784444/1790258974744-0-bgm-converter-upgrade-capsule.png",
+          "url": "https://raw.githubusercontent.com/itZcat17/CapsuleOS-Releases/main/publisher/media/b7750de7-bc76-4cf3-9d83-137105784444/1790258974744-0-bgm-converter-upgrade-capsule.png"
+        }
+      ]
+    },
+    {
       "id": "575d4fca-8ce0-4830-bed5-0e3e84016237",
       "header": "CAPSULE OS UPDATE",
       "title": "New Look Update",
@@ -125,5 +150,5 @@
     }
   ],
   "schemaVersion": 2,
-  "updatedAt": "2026-09-22T19:05:02.956Z"
+  "updatedAt": "2026-09-24T14:14:46.687Z"
 }
